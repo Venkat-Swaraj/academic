@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Venkat Swaraj
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Venkat Swaraj
+last_name: Goli
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: GITAM University
+    url: https://www.gitam.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include using XR in combination with Robotics and other budding technologies and also using XR to solve real world problem.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Computing
+  - Robotics
+  - Human Computer Interaction
 
 # Education to show in About widget
 education:
